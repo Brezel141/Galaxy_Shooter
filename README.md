@@ -4,6 +4,4 @@ Galaxy shooter is a simple game where you control a spaceship that shoots agains
 This project was developed during the course "Udemy The Ultimate Guide to Game Development with Unity (Official)".
 Technologies
 
-This project was built with:
-
-    Unity
+Playable here : https://play.unity.com/en/games/1d51cfc9-74e2-42b8-acf2-f9ecdd9f5d98/galaxyshooter
